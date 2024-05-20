@@ -41,9 +41,6 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 ### Built With
 - **React** - A JavaScript library for building user interfaces
 
-### Author
-- **Yashasavee Kesarwani** - [Your GitHub Profile](https://github.com/YashasaveeKesarwani99)
-
 ### Acknowledgments
 - Thanks to Flipkart for the opportunity and the challenge!
 
