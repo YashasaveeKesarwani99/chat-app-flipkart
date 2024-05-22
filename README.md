@@ -15,7 +15,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git](https://github.com/YashasaveeKesarwani99/chat-app-flipkart
+    git clone https://github.com/YashasaveeKesarwani99/chat-app-flipkart
     ```
 
 2. **Navigate to the project directory:**
